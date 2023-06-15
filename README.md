@@ -1,5 +1,17 @@
 ### Hi there 👋
+<h1>Hi 👋, I'm Adang Hadi Firmansyah &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 <a align="left" href="mailto:odydodyman@yahoo.com" target="blank">
+   <img align="center" src="https://img.shields.io/badge/odyodyman@yahoo.com-6003d1?style=for-the-badge&logo=yahoo&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp; </h1>
 
+<h3>Full Stack Developer</h3>
+<p>🎖️ I’m a full-stack developer who has been programming for over 15 years.</p>
+<p>🥇 I specialize in PHP & Javascript development and solution architecture for large-scale applications. I am a big fan of modern web-development technological solutions.</p>
+
+<h1>📫 Contact me:</h1>
+<br />
+<p>
+ <a href="mailto:odyodyman@yahoo.com" target="blank">
+   <img align="center" src="https://img.shields.io/badge/odyodyman@yahoo.com-6003d1?style=for-the-badge&logo=yahoo&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;<a href="https://www.github.com/odyman" target="blank"><img align="center" src="https://img.shields.io/badge/odyman-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 <!--
 **odyman/odyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
